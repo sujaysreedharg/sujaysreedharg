@@ -7,9 +7,9 @@
 
 - ⚡ Fun fact: **I am from Electronics domain, gathered interest in Data Science from one of my core subjects Linear Algebra.**
 <br>
-<p align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujay12345&layout=compact)](https://github.com/sujay12345/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=sujay12345&count_private=true" alt="sujay"/>
- </p>
+
  
 <p align="center"> - 📫 How to reach me: </p>
  <p align="center">
