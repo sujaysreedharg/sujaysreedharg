@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Exploratory Data Analysis, Predictive Modelling, Containerization and Model Deployment.
 - 🌱 I’m currently learning Backend Development using Django, Docker container and cloud deployment.
 
-- ⚡ Fun fact: **I am from Electronics domain, gathered interest in Data Science from one of my core subjects Linear Algebra**
+- ⚡ Fun fact: **I am from Electronics domain, gathered interest in Data Science from one of my core subjects Linear Algebra.**
 <br>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sujay12345&count_private=true" alt="sujay"/>
