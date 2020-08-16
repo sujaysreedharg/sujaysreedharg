@@ -13,7 +13,7 @@
   <p align="center">                                                                                                                                      
 <img src="https://github-readme-stats.vercel.app/api?username=sujay12345&count_private=true" alt="sujay"/>
    </p>
-   <h5 class="center">Reach me through </h5>
+   <h3 class="text-center">Reach me through </h3>
  <p align="center">
 <a href="https://www.linkedin.com/in/sujay12345">	
   <img align="center" alt="Sujay | LinkdeIn" width="25px" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />	
