@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-<!--
-**sujay12345/sujay12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![Sujay's github stats](https://github-readme-stats.vercel.app/api?username=sujay12345)]
+<img src="https://github-readme-stats.vercel.app/api?username=sujay12345&show_icons=true" alt="sujay"/>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
