@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-[![Sujay's github stats](https://github-readme-stats.vercel.app/api?username=sujay12345)]
 <img src="https://github-readme-stats.vercel.app/api?username=sujay12345&show_icons=true" alt="sujay"/>
 Here are some ideas to get you started:
 
