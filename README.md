@@ -1,8 +1,6 @@
 <h1 align="center">Hi there👋, I'm Sujay</h1>
 
- <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujay12345&layout=compact" alt="Sujay's stats/>
-  </p>
+
           
 
 - 🔭 I’m currently working on Exploratory Data Analysis, Predictive Modelling, Containerization and Model Deployment.
