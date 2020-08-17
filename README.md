@@ -10,8 +10,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujay12345&layout=compact" alt="Sujay's stats/>
    </p>                                                                                                                                                                               <br>  
                                                                                                          
-                                                                                                         
-   <h3 align="center" >Reach me through </h3>
+                                                                                                        
  <p align="center">
 <a href="https://www.linkedin.com/in/sujay12345">	
   <img align="center" alt="Sujay | LinkdeIn" width="25px" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />	
