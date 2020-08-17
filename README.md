@@ -8,14 +8,9 @@
  **I am from Electronics domain, gathered interest in Data Science from one of my core subjects Linear Algebra.**
  <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujay12345&layout=compact" alt="Sujay's stats/>
-   </p>                                                                                                                                                                               <br>  
+   </p>                                                                                                                                                                              
                                                                                                          
                                                                                                         
 
-<a href="https://www.linkedin.com/in/sujay12345">	
-  <img align="center" alt="Sujay | LinkdeIn" width="25px" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />	
-</a>	
-<a href="https://www.kaggle.com/sujay12345">	
-  <img align="center" alt="Sujay | Kaggle" width="25px" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />	
-</a>		
+
 
