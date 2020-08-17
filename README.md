@@ -9,10 +9,6 @@
  <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujay12345&layout=compact" alt="Sujay's stats/>
    </p>                                                                                                                                                                                             
-
-  <p align="center">                                                                                                                                      
-<img src="https://github-readme-stats.vercel.app/api?username=sujay12345&count_private=true" alt="sujay"/>
-   </p>
    <h3 align="center" >Reach me through </h3>
  <p align="center">
 <a href="https://www.linkedin.com/in/sujay12345">	
