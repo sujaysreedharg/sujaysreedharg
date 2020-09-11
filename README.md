@@ -7,8 +7,9 @@
 - 🌱 I’m currently learning Backend Development using Django, Docker container and cloud deployment.
 
  **I have an undying love for launching starups. If you want me to collaborate for your startups, then I would love to.
-    Also, here is where I develop and perform test for my startup. 
-        smellfactory.team**
+    Also, here is where I develop and perform test for my startup.**
+        <h1 align="center">smellfactory.team</h1>
+
 
 
 
