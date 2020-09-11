@@ -6,7 +6,9 @@
 - 🔭 I’m currently working on Exploratory Data Analysis, Predictive Modelling, Containerization and Model Deployment.
 - 🌱 I’m currently learning Backend Development using Django, Docker container and cloud deployment.
 
- **I am from Electronics domain, gathered interest in Data Science from one of my core subjects Linear Algebra.**
+ **I have an undying love for launching starups. If you want me to collaborate for your startups, then I would love to.
+    Also, here is where I develop and perform test for my startup. 
+        smellfactory.team**
 
 
 
