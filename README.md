@@ -9,8 +9,7 @@
  **I have an undying love for launching startups. If you want me to collaborate for yours, then I would love to.
     Also, here is where I develop my startup.**
     
-  <h1 align="center">https://www.smellfactory.team</h1>  (Under Construction)
-
+  <h1 align="center">https://www.smellfactory.team</h1>  
 
 
      
